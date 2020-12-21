@@ -1,1 +1,1 @@
-# DICEE-challeng-javascript-DOM-
+# DICEE-javascript-DOM-
